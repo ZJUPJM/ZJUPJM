@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![madneal's github stats](https://github-readme-stats.maiicy.top/api?username=ZJUPJM&show_icons=true&theme=radical)](https://github.com/ZJUPJM)
+[![ZJUPJM's github stats](https://github-stats.maiicy.top/api?username=ZJUPJM&show_icons=true&theme=radical)](https://github.com/ZJUPJM)
 <!--
 **ZJUPJM/ZJUPJM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
